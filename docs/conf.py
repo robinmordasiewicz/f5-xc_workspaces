@@ -19,7 +19,7 @@ is_subproject=False
 readthedocs_url="https://workspacedocs.readthedocs.io"
 
 html_theme_options = {
-    "repository_url": "https://github.com/workspacedocs",
+    "repository_url": "https://github.com/robinmordasiewicz/workspacedocs",
     "use_repository_button": True,
 }
 
