@@ -15,7 +15,7 @@ Contents:
 .. subprojecttoctree::
     foo
     bar
-    SubprojectTitle <subproject: lorem>
+    Infrastructure as Code <subproject: f5-xc-iac>
 
 Indices and tables
 ==================
