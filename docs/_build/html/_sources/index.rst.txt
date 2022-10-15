@@ -10,7 +10,12 @@ Welcome to workspaces's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+Contents:
 
+.. subprojecttoctree::
+    foo
+    bar
+    SubprojectTitle <subproject: lorem>
 
 Indices and tables
 ==================

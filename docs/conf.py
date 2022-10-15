@@ -14,7 +14,10 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ["subprojecttoctree"]
+is_subproject=False
+readthedocs_url="http://workspaces.example.com"
+READTHEDOCS_PROJECT="workspaces"
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
