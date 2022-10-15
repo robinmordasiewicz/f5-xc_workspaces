@@ -16,7 +16,7 @@ release = '1.0'
 
 extensions = ["subprojecttoctree"]
 is_subproject=False
-readthedocs_url="https://workspacedocs.readthedocs.io/en/latest/"
+readthedocs_url="https://workspacedocs.readthedocs.io"
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
