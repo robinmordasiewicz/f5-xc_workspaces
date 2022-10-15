@@ -15,7 +15,6 @@ Contents:
 .. subprojecttoctree::
     foo
     bar
-    Infrastructure as Code <subproject: f5-xc-iac>
     Subproject Example <subproject: subproject-f5>
 
 Indices and tables
