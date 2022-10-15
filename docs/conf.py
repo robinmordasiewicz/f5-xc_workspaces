@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'workspaces'
+project = 'workspacedocs'
 copyright = '2022, Robin Mordasiewicz'
 author = 'Robin Mordasiewicz'
 release = '1.0'
@@ -16,8 +16,7 @@ release = '1.0'
 
 extensions = ["subprojecttoctree"]
 is_subproject=False
-readthedocs_url="http://workspaces.example.com"
-READTHEDOCS_PROJECT="workspaces"
+readthedocs_url="https://workspacedocs.readthedocs.io/en/latest/"
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
