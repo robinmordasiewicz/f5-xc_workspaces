@@ -6,10 +6,6 @@
 Welcome to workspaces's documentation!
 ======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 Contents:
 
 .. subprojecttoctree::
