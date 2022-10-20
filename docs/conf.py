@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'workspacedocs'
+project = 'workspacess'
 copyright = '2022, Robin Mordasiewicz'
 author = 'Robin Mordasiewicz'
 release = '1.0'
