@@ -3,7 +3,6 @@ Workspace Excercises
 
 .. subprojecttoctree::
     Course and Lab Access <subproject: course-and-lab-access>
-    Course and Lab Access2 <subproject: f5-xc-course-and-lab-access>
     Workstation <subproject: workstation>
     Administration <subproject: administration>
     Cloud And Edge Sites <subproject: cloud-and-edge-sites>
