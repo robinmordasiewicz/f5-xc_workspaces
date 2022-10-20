@@ -11,12 +11,14 @@ copyright = '2022, Robin Mordasiewicz'
 author = 'Robin Mordasiewicz'
 release = '1.0'
 
+master_doc = index
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ["subprojecttoctree"]
 is_subproject=False
-readthedocs_url="https://workspacedocs.readthedocs.io"
+readthedocs_url="https://f5-xc-workspaces.readthedocs.io"
 
 html_theme_options = {
     "repository_url": "https://github.com/robinmordasiewicz/workspacedocs",
