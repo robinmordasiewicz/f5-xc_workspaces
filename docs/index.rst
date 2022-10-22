@@ -15,6 +15,15 @@ Workspace Excercises
     cake2
     cake
 
+******************
+Indices and tables
+******************
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+
 - :doc:`Cake <subproject-f5:/cake>`
 - :doc:`Cake2 <subproject-f5:cake>`
 - :doc:`Cake3 <cake>`
