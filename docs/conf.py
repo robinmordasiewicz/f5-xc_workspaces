@@ -20,6 +20,10 @@ extensions = [
         "sphinx.ext.intersphinx"
     ]
 
+intersphinx_mapping = {
+    'cake': ('https://f5-xc-workspaces.readthedocs.io/projects/subproject-f5/en/latest/cake.html', None),
+}
+
 is_subproject=False
 readthedocs_url="https://f5-xc-workspaces.readthedocs.io"
 
