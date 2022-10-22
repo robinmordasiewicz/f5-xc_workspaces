@@ -14,4 +14,6 @@ Workspace Excercises
     Cake2 <subproject: subproject-f5/cake>
     Cake3 <subproject:subproject-f5/cake>
 
-- :doc:`Cake <subproject-f5:cake>`
+- :doc:`Cake <subproject-f5:/cake>`
+- :doc:`Cake2 <subproject-f5:cake>`
+- :doc:`Cake3 <cake>`
