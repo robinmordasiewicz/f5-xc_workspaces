@@ -11,5 +11,6 @@ Workspace Excercises
     Web App & API Protection <subproject: f5-xc-web-app-and-api-protection>
     Sub Project <subproject: subproject-f5>
     Cake <subproject: cake>
+    Cake2 <subproject: subproject-f5/cake>
 
 - :doc:`Cake <subproject-f5:cake>`
