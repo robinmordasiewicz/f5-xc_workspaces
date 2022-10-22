@@ -15,3 +15,14 @@ Workspace Excercises
 - :doc:`Cake <subproject-f5:/cake>`
 - :doc:`Cake2 <subproject-f5:cake>`
 - :doc:`Cake3 <cake>`
+
+
+- :ref:`subproject-f5:cake`
+- :ref:`:ref: role <subproject-f5:cake>`
+- :doc:`subproject-f5:/cake`
+- :doc:`Intersphinx <subproject-f5:cake>`
+
+- :ref:`cake`
+- :ref:`:ref: role <cake>`
+- :doc:`cake`
+- :doc:`Intersphinx <cake>`
