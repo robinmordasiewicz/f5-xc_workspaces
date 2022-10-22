@@ -13,8 +13,8 @@ Workspace Excercises
    :ref:`Releng Overview1 <subproject-f5:cake>`
    :ref:`Releng Overview2 <cake>`
    :ref:`Releng Overview3 <cake2>`
-   Sub Project2 <cake2:>
-   Sub Project3 <cake:>
+   Sub Project2 <cake2>
+   Sub Project3 <cake>
    cake2
    cake
 
