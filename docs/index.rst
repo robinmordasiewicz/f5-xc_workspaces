@@ -26,6 +26,12 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+* :ref:`cake`
+* :ref:`cake2`
+* :ref:`<cake>`
+* :ref:`<cake2>`
+* :ref:`subproject-f5:cake`
+* :ref:`<subproject-f5:cake>`
 
 - :doc:`Cake <subproject-f5:/cake>`
 - :doc:`Cake2 <subproject-f5:cake>`
