@@ -17,11 +17,14 @@ release = '1.0'
 
 extensions = [
         "subprojecttoctree",
+        "sphinx.ext.autodoc",
+        "sphinx.ext.extlinks",
         "sphinx.ext.intersphinx"
     ]
 
 intersphinx_mapping = {
     'cake': ('https://f5-xc-workspaces.readthedocs.io/projects/subproject-f5/en/latest/cake.html', None),
+    'cake2': ('<a href="https://f5-xc-workspaces.readthedocs.io/projects/subproject-f5/en/latest/cake.html</a>', None)
 }
 
 is_subproject=False
