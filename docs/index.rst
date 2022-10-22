@@ -12,5 +12,6 @@ Workspace Excercises
     Sub Project <subproject: subproject-f5>
     Cake <subproject: cake>
     Cake2 <subproject: subproject-f5/cake>
+    Cake3 <subproject:subproject-f5/cake>
 
 - :doc:`Cake <subproject-f5:cake>`
