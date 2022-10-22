@@ -12,4 +12,4 @@ Workspace Excercises
     Sub Project <subproject: subproject-f5>
     Cake <subproject: cake>
 
-
+- :doc:`Cake <subproject-f5:cake>`
