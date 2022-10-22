@@ -15,7 +15,11 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["subprojecttoctree"]
+extensions = [
+        "subprojecttoctree",
+        "sphinx.ext.intersphinx"
+    ]
+
 is_subproject=False
 readthedocs_url="https://f5-xc-workspaces.readthedocs.io"
 
