@@ -12,6 +12,7 @@ Workspace Excercises
    Cake <subproject: subproject-f5>
    Title <subproject-f5:cake>
    Title2 <subproject-f5>
+   Cakie <cake>
    :doc:`Cake3 <cake>`
 
 
@@ -25,6 +26,8 @@ Indices and tables
 - :doc:`Cake2 <subproject-f5:cake>`
 - :doc:`Cake3 <cake>`
 
+- :doc:`Intersphinx <subproject-f5:std/label/cake>`
+- :doc:`Intersphinx2 <subproject-f5:std:label:cake>`
 
 - :ref:`subproject-f5:cake`
 - :ref:`:ref: role <subproject-f5:cake>`
