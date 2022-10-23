@@ -11,15 +11,14 @@ Workspace Excercises
    Web App & API Protection <subproject: f5-xc-web-app-and-api-protection>
    Cake <subproject:subproject-f5:cake>
    Cake2 <subproject: subproject-f5/cake>
+   :ref:`cake`
+   :doc:`Intersphinx <cake>`
 
 ******************
 Indices and tables
 ******************
 
 * :ref:`cake`
-* :ref:`cake2`
-* :ref:`<std:label:cake>`
-* :ref:`<cake2>`
 * :ref:`subproject-f5:cake`
 * :ref:`<subproject-f5:cake>`
 
