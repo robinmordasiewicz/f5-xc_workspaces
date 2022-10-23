@@ -5,7 +5,7 @@ Workspace Excercises
    Course and Lab Access <subproject: course-and-lab-access/en/latest/course-and-lab-access.html?>
    Workstation <subproject: workstation/en/latest/workstation.html?>
    Administration <subproject: administration/en/latest/administration.html?>
-   Cloud And Edge Sites <subproject: cloud-and-edge-sites/en/latest/cloud-and-edge-sites.html?>
+   Cloud And Edge Sites <subproject: cloud-and-edge-sites>
    Distributed Apps <subproject: distributed-apps/en/latest/distributed-apps.html?>
    Load Balancers <subproject: load-balancers>
    Web App & API Protection <subproject: web-app-and-api-protection/en/latest/web-app-and-api-protection.html?>
