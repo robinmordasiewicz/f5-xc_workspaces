@@ -10,8 +10,10 @@ Workspace Excercises
    Load Balancers <subproject: f5-xc-load-balancers>
    Web App & API Protection <subproject: f5-xc-web-app-and-api-protection>
    Cake <subproject: subproject-f5>
-   Title <subproject-f5:cake>
-   Title2 <subproject-f5>
+   Title1 <subproject-f5:cake>
+   Title2 <subproject-f5/cake>
+   Title3 <subproject-f5/cake.html>
+   Title4 <subproject-f5>
    Cakie <cake>
    :doc:`Cake3 <cake>`
 
