@@ -9,7 +9,8 @@ Workspace Excercises
    Distributed Apps <subproject: f5-xc-distributed-apps>
    Load Balancers <subproject: f5-xc-load-balancers>
    Web App & API Protection <subproject: f5-xc-web-app-and-api-protection>
-   Cake2 <subproject: subproject-f5:cake>
+   Cake <subproject:subproject-f5:cake>
+   Cake2 <subproject: subproject-f5/cake>
 
 ******************
 Indices and tables
