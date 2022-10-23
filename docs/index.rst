@@ -9,8 +9,8 @@ Workspace Excercises
    Distributed Apps <subproject: f5-xc-distributed-apps>
    Load Balancers <subproject: f5-xc-load-balancers>
    Web App & API Protection <subproject: f5-xc-web-app-and-api-protection>
-   Sub Project <subproject: subproject-f5:cake>
-   :ref:`Releng Overview1 <subproject-f5:cake>`
+   Sub Project <subproject: subproject-f5:std:label:cake>
+   :ref:`Releng Overview1 <subproject-f5:std:label:cake>`
    :ref:`Releng Overview2 <cake>`
    :ref:`Releng Overview3 <cake2>`
    Sub Project2 <cake2>
@@ -28,7 +28,7 @@ Indices and tables
 
 * :ref:`cake`
 * :ref:`cake2`
-* :ref:`<cake>`
+* :ref:`<std:label:cake>`
 * :ref:`<cake2>`
 * :ref:`subproject-f5:cake`
 * :ref:`<subproject-f5:cake>`
