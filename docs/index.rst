@@ -9,11 +9,10 @@ Workspace Excercises
    Distributed Apps <subproject: f5-xc-distributed-apps>
    Load Balancers <subproject: f5-xc-load-balancers>
    Web App & API Protection <subproject: f5-xc-web-app-and-api-protection>
-   :doc:`Cake2 <subproject-f5:cake>`
-   Cake <subproject:subproject-f5:cake>
-   Cake2 <subproject: subproject-f5/cake>
-   :ref:`cake`
-   :doc:`Intersphinx <cake>`
+   Cake <subproject: subproject-f5>
+   Title <subproject-f5:cake>
+   Title2 <subproject-f5>
+   :doc:`Cake3 <cake>`
 
 
 ******************
@@ -29,7 +28,6 @@ Indices and tables
 
 - :ref:`subproject-f5:cake`
 - :ref:`:ref: role <subproject-f5:cake>`
-- :doc:`subproject-f5:/cake`
 - :doc:`Intersphinx <subproject-f5:cake>`
 
 - :ref:`cake`
