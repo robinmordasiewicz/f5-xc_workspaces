@@ -23,8 +23,7 @@ extensions = [
     ]
 
 intersphinx_mapping = {
-    'cake': ('https://f5-xc-workspaces.readthedocs.io/projects/subproject-f5/en/latest/cake.html', None),
-    'cake2': ('<a href="https://f5-xc-workspaces.readthedocs.io/projects/subproject-f5/en/latest/cake.html</a>', None)
+    'subproject-f5': ('https://f5-xc-workspaces.readthedocs.io/projects/subproject-f5/en/latest/', None),
 }
 
 is_subproject=False
