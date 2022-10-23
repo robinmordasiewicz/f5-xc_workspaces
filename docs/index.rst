@@ -15,15 +15,14 @@ Workspace Excercises
    :ref:`cake`
    :doc:`Intersphinx <cake>`
 
+
 ******************
 Indices and tables
 ******************
 
 * :ref:`cake`
 * :ref:`subproject-f5:cake`
-* :ref:`<subproject-f5:cake>`
 
-- :doc:`Cake <subproject-f5:/cake>`
 - :doc:`Cake2 <subproject-f5:cake>`
 - :doc:`Cake3 <cake>`
 
@@ -38,7 +37,3 @@ Indices and tables
 - :doc:`cake`
 - :doc:`Intersphinx <cake>`
 
-- :ref:`cake2`
-- :ref:`:ref: role <cake2>`
-- :doc:`cake2`
-- :doc:`Intersphinx <cake2>`
