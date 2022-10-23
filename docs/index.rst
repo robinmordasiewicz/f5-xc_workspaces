@@ -9,7 +9,7 @@ Workspace Excercises
    Distributed Apps <subproject: distributed-apps/en/latest/distributed-apps.html?>
    Load Balancers <subproject: load-balancers>
    Web App & API Protection <subproject: web-app-and-api-protection/en/latest/web-app-and-api-protection.html?>
-   Subproject <subproject: subproject-f5/en/latest/pages.html?>
+   Subproject <subproject: subproject-f5>
 
 
 ******************
