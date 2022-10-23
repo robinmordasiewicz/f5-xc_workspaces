@@ -2,15 +2,14 @@ Workspace Excercises
 =====================
 
 .. subprojecttoctree::
-   Course and Lab Access <subproject: f5-xc-course-and-lab-access>
-   Workstation <subproject: f5-xc-workstation>
-   Administration <subproject: f5-xc-administration>
-   Cloud And Edge Sites <subproject: f5-xc-cloud-and-edge-sites>
-   Distributed Apps <subproject: f5-xc-distributed-apps>
-   Load Balancers <subproject: f5-xc-load-balancers>
-   Web App & API Protection <subproject: f5-xc-web-app-and-api-protection>
-   Subproject <subproject: subproject-f5>
-   Subproject2 <subproject: subproject-f5/en/latest/cake.html?>
+   Course and Lab Access <subproject: course-and-lab-access>
+   Workstation <subproject: workstation>
+   Administration <subproject: administration>
+   Cloud And Edge Sites <subproject: cloud-and-edge-sites>
+   Distributed Apps <subproject: distributed-apps>
+   Load Balancers <subproject: load-balancers>
+   Web App & API Protection <subproject: web-app-and-api-protection/en/latest/web-app-and-api-protection.html?>
+   Subproject <subproject: subproject-f5/en/latest/pages.html?>
 
 
 ******************
